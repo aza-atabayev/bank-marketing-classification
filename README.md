@@ -49,14 +49,17 @@ Attributes can be divided into the following groups:
 * y - has the client subscribed a term deposit? (binary: 'yes', 'no')
 
 
+# Visuals
 
+![alt text](https://github.com/aza-atabayev/bank-marketing-classification/blob/master/images/age_efficiency.png?raw=true)
 
+![alt text](https://github.com/aza-atabayev/bank-marketing-classification/blob/master/images/duration.png?raw=true)
 
+![alt text](https://github.com/aza-atabayev/bank-marketing-classification/blob/master/images/pdp1.png?raw=true)
 
+![alt text](https://github.com/aza-atabayev/bank-marketing-classification/blob/master/images/pdp2.png?raw=true)
 
-
-
-
+![alt text](https://github.com/aza-atabayev/bank-marketing-classification/blob/master/images/pdp3.png?raw=true)
 
 
 
